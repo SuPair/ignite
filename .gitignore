@@ -4,3 +4,5 @@ ignite.exe~
 .DS_Store
 conf/config.toml
 data
+vendor
+
